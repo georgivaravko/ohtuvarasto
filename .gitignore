@@ -3,3 +3,5 @@ __pycache__
 .pytest_cache
 ei_haluttu_tiedosto.tmp
 .DS_Store
+.coverage
+htmlcov
