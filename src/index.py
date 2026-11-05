@@ -75,3 +75,4 @@ def test_varasto_virhetilanteet_mehua(mehua):
 
 if __name__ == "__main__":
     main()
+    
